@@ -15,3 +15,5 @@
 这里的数据包括：str，list，dict，bool等
 
 工具包括：if，for，while，def，import等
+
+行为是数据自身的处理以及工具对数据的处理
